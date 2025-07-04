@@ -1,0 +1,74 @@
+{
+  "model_type": "RandomForestClassifier",
+  "training_date": "2024-12-15T14:30:22.156Z",
+  "training_samples": 1000,
+  "feature_names": [
+    "cpu_aggression_level",
+    "player_speed_variance",
+    "teammate_positioning_score",
+    "shot_accuracy_drop",
+    "pass_completion_rate",
+    "possession_loss_frequency",
+    "referee_bias_score",
+    "stamina_drain_rate"
+  ],
+  "accuracy_score": 0.847,
+  "precision": {
+    "positive": 0.83,
+    "neutral": 0.81,
+    "negative": 0.89
+  },
+  "recall": {
+    "positive": 0.85,
+    "neutral": 0.79,
+    "negative": 0.91
+  },
+  "f1_score": {
+    "positive": 0.84,
+    "neutral": 0.8,
+    "negative": 0.9
+  },
+  "confusion_matrix": [
+    [
+      287,
+      23,
+      12
+    ],
+    [
+      19,
+      301,
+      31
+    ],
+    [
+      8,
+      25,
+      294
+    ]
+  ],
+  "feature_importance": [
+    0.18,
+    0.15,
+    0.12,
+    0.14,
+    0.16,
+    0.19,
+    0.03,
+    0.03
+  ],
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 10,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "random_state": 42
+  },
+  "validation_scores": [
+    0.834,
+    0.851,
+    0.829,
+    0.863,
+    0.841
+  ],
+  "training_time_seconds": 2.34,
+  "model_size_kb": 156.7
+}

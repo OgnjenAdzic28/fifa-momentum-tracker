@@ -1,0 +1,76 @@
+{
+  "model_version": "v2.1.3",
+  "training_date": "2024-12-15T14:30:22.156789Z",
+  "dataset_info": {
+    "total_samples": 2847,
+    "positive_samples": 923,
+    "neutral_samples": 1038,
+    "negative_samples": 886,
+    "data_sources": [
+      "manual_labeling",
+      "automated_detection",
+      "user_feedback"
+    ]
+  },
+  "preprocessing": {
+    "feature_scaling": "StandardScaler",
+    "outlier_removal": "IQR method",
+    "missing_value_strategy": "median_imputation"
+  },
+  "model_selection": {
+    "algorithms_tested": [
+      "RandomForest",
+      "XGBoost",
+      "SVM",
+      "LogisticRegression"
+    ],
+    "best_algorithm": "RandomForest",
+    "hyperparameter_tuning": "GridSearchCV",
+    "cv_folds": 5
+  },
+  "performance_metrics": {
+    "accuracy": 0.847,
+    "macro_avg_precision": 0.843,
+    "macro_avg_recall": 0.851,
+    "macro_avg_f1": 0.847,
+    "roc_auc": {
+      "positive": 0.91,
+      "neutral": 0.83,
+      "negative": 0.94
+    }
+  },
+  "feature_importance_ranking": [
+    {
+      "feature": "possession_loss_frequency",
+      "importance": 0.19
+    },
+    {
+      "feature": "cpu_aggression_level",
+      "importance": 0.18
+    },
+    {
+      "feature": "pass_completion_rate",
+      "importance": 0.16
+    },
+    {
+      "feature": "player_speed_variance",
+      "importance": 0.15
+    },
+    {
+      "feature": "shot_accuracy_drop",
+      "importance": 0.14
+    },
+    {
+      "feature": "teammate_positioning_score",
+      "importance": 0.12
+    },
+    {
+      "feature": "stamina_drain_rate",
+      "importance": 0.03
+    },
+    {
+      "feature": "referee_bias_score",
+      "importance": 0.03
+    }
+  ]
+}
