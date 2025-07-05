@@ -1,0 +1,23 @@
+{
+  "profile_name": "Conservative Player",
+  "detection": {
+    "momentum_threshold": 0.85,
+    "detection_interval": 1.5,
+    "features": {
+      "cpu_aggression_weight": 0.2,
+      "speed_variance_weight": 0.15,
+      "positioning_weight": 0.25,
+      "stamina_weight": 0.3,
+      "accuracy_weight": 0.1
+    }
+  },
+  "automation": {
+    "auto_pause_enabled": true,
+    "pause_cooldown": 45,
+    "triggers": {
+      "negative_momentum": true,
+      "low_stamina": true,
+      "tactical_adjustment": false
+    }
+  }
+}

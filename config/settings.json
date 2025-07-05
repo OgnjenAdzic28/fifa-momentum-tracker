@@ -1,0 +1,51 @@
+{
+  "capture": {
+    "monitor_index": 1,
+    "target_fps": 30,
+    "screen_region": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "detection": {
+    "momentum_threshold": 0.75,
+    "detection_interval": 1.0,
+    "model_path": "models/momentum_model.pkl",
+    "features": {
+      "cpu_aggression_weight": 0.3,
+      "speed_variance_weight": 0.2,
+      "positioning_weight": 0.15,
+      "stamina_weight": 0.2,
+      "accuracy_weight": 0.15
+    }
+  },
+  "automation": {
+    "auto_pause_enabled": true,
+    "pause_cooldown": 30,
+    "triggers": {
+      "negative_momentum": true,
+      "low_stamina": true,
+      "tactical_adjustment": false
+    },
+    "keybinds": {
+      "pause": "space",
+      "substitutions": "tab",
+      "tactics": "t",
+      "continue": "space"
+    }
+  },
+  "analytics": {
+    "database_path": "data/fifa_performance.db",
+    "export_format": "xlsx",
+    "chart_output_dir": "data/charts",
+    "performance_window_days": 30
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "logs/fifa_momentum.log",
+    "max_file_size": "10MB",
+    "backup_count": 5
+  }
+}

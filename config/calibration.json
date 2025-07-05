@@ -1,0 +1,42 @@
+{
+  "screen_calibration": {
+    "resolution": "1920x1080",
+    "game_region": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    "ui_regions": {
+      "score": {
+        "x": 768,
+        "y": 32,
+        "width": 384,
+        "height": 64
+      },
+      "minimap": {
+        "x": 1650,
+        "y": 50,
+        "width": 250,
+        "height": 200
+      },
+      "stamina_bars": {
+        "x": 50,
+        "y": 950,
+        "width": 300,
+        "height": 80
+      }
+    },
+    "calibration_date": "2024-12-10T16:22:11.889Z"
+  },
+  "controller_calibration": {
+    "deadzone": 0.15,
+    "sensitivity": 0.8,
+    "button_mapping": {
+      "shoot": "button_2",
+      "pass": "button_1",
+      "sprint": "button_4",
+      "skill_move": "button_3"
+    }
+  }
+}
