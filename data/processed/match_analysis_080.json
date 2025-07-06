@@ -1,0 +1,95 @@
+{
+  "match_id": "match_080_3247",
+  "timestamp": "2025-08-08T21:15:24.440047",
+  "opponent": "Liverpool",
+  "final_score": [
+    5,
+    1
+  ],
+  "momentum_events": [
+    {
+      "minute": 19.500989122560657,
+      "momentum_level": "neutral",
+      "confidence": 0.6715973083523106,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.7445165397283088,
+        "speed_variance": 0.19506887331634448,
+        "positioning": 0.7335108654131266,
+        "stamina": 0.10042570712635368
+      }
+    },
+    {
+      "minute": 29.94753545644441,
+      "momentum_level": "positive",
+      "confidence": 0.7013912429564653,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.9709570604632672,
+        "speed_variance": 0.42808030974123357,
+        "positioning": 0.2535106568471207,
+        "stamina": 0.862929922282433
+      }
+    },
+    {
+      "minute": 13.300780553550416,
+      "momentum_level": "positive",
+      "confidence": 0.8778073311833784,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.20898962107563746,
+        "speed_variance": 0.2742516377333615,
+        "positioning": 0.8990704219905608,
+        "stamina": 0.5941831965453274
+      }
+    },
+    {
+      "minute": 59.22557638071718,
+      "momentum_level": "negative",
+      "confidence": 0.655673212900792,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.6990640378761857,
+        "speed_variance": 0.6649634853113539,
+        "positioning": 0.5061028960945035,
+        "stamina": 0.8082128420885051
+      }
+    },
+    {
+      "minute": 7.832845474314629,
+      "momentum_level": "positive",
+      "confidence": 0.729819438473773,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.4388691263814998,
+        "speed_variance": 0.1726584602050436,
+        "positioning": 0.07961274570595644,
+        "stamina": 0.8171395986632307
+      }
+    },
+    {
+      "minute": 49.80221175826113,
+      "momentum_level": "positive",
+      "confidence": 0.801496124886886,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.23407843563638975,
+        "speed_variance": 0.9627298743141498,
+        "positioning": 0.1616227696249194,
+        "stamina": 0.700635604274173
+      }
+    },
+    {
+      "minute": 63.37483501203359,
+      "momentum_level": "positive",
+      "confidence": 0.8353779347876104,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.8749317868861645,
+        "speed_variance": 0.8350760669962758,
+        "positioning": 0.31427665640210156,
+        "stamina": 0.9457188871613476
+      }
+    }
+  ]
+}

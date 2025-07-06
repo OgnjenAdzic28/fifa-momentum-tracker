@@ -1,0 +1,275 @@
+{
+  "match_id": "match_018_3489",
+  "timestamp": "2025-06-20T21:15:24.361229",
+  "opponent": "Man City",
+  "final_score": [
+    4,
+    0
+  ],
+  "momentum_events": [
+    {
+      "minute": 30.71740520477001,
+      "momentum_level": "positive",
+      "confidence": 0.701295643244199,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.8446949339187972,
+        "speed_variance": 0.7350029620164404,
+        "positioning": 0.5831133281855558,
+        "stamina": 0.05489743327117447
+      }
+    },
+    {
+      "minute": 47.882484885193186,
+      "momentum_level": "negative",
+      "confidence": 0.8132295820446716,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.9285847908775006,
+        "speed_variance": 0.5585253662174418,
+        "positioning": 0.7180771143396106,
+        "stamina": 0.9771961587478697
+      }
+    },
+    {
+      "minute": 28.114343909861248,
+      "momentum_level": "positive",
+      "confidence": 0.6434257552039434,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.035881941883084356,
+        "speed_variance": 0.40329413915139634,
+        "positioning": 0.17131588179702983,
+        "stamina": 0.757751511937231
+      }
+    },
+    {
+      "minute": 42.4837062291906,
+      "momentum_level": "positive",
+      "confidence": 0.6266152192331376,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.23717024456092528,
+        "speed_variance": 0.3016459389448214,
+        "positioning": 0.7606416440229198,
+        "stamina": 0.25018989861344454
+      }
+    },
+    {
+      "minute": 55.831313229166,
+      "momentum_level": "positive",
+      "confidence": 0.6881720122099115,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.17095110740118513,
+        "speed_variance": 0.07845231364048422,
+        "positioning": 0.19976287748238786,
+        "stamina": 0.8871504530224926
+      }
+    },
+    {
+      "minute": 13.794888691795343,
+      "momentum_level": "positive",
+      "confidence": 0.7121907301431593,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.4241739180695756,
+        "speed_variance": 0.09725800426321973,
+        "positioning": 0.9764733402574252,
+        "stamina": 0.7988800825696717
+      }
+    },
+    {
+      "minute": 6.498778614733242,
+      "momentum_level": "neutral",
+      "confidence": 0.6289948748231775,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.6204549903780933,
+        "speed_variance": 0.09168800079701211,
+        "positioning": 0.9164193938867888,
+        "stamina": 0.9837867483201406
+      }
+    },
+    {
+      "minute": 76.75256528258998,
+      "momentum_level": "negative",
+      "confidence": 0.7121871384068412,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.1343309107071048,
+        "speed_variance": 0.028054762486339535,
+        "positioning": 0.37345865558722025,
+        "stamina": 0.232933911075768
+      }
+    },
+    {
+      "minute": 52.89847223188411,
+      "momentum_level": "negative",
+      "confidence": 0.90772581058089,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.6524450317510772,
+        "speed_variance": 0.4277400454675939,
+        "positioning": 0.8190436781034091,
+        "stamina": 0.027150734218362005
+      }
+    },
+    {
+      "minute": 48.41431765611933,
+      "momentum_level": "neutral",
+      "confidence": 0.8433057487621212,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.2671968290637381,
+        "speed_variance": 0.5966133969992534,
+        "positioning": 0.33034346018603866,
+        "stamina": 0.7612466096279032
+      }
+    },
+    {
+      "minute": 19.24690832741001,
+      "momentum_level": "positive",
+      "confidence": 0.781148657776209,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.5974618531164434,
+        "speed_variance": 0.4059219925682409,
+        "positioning": 0.3825461426179534,
+        "stamina": 0.37005484204835226
+      }
+    },
+    {
+      "minute": 21.77009680886002,
+      "momentum_level": "neutral",
+      "confidence": 0.7543825574423181,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.2295165034760469,
+        "speed_variance": 0.1643186951257828,
+        "positioning": 0.8875507675046895,
+        "stamina": 0.7691871620649157
+      }
+    },
+    {
+      "minute": 17.192956498024234,
+      "momentum_level": "negative",
+      "confidence": 0.9171465910871912,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.19756835740728507,
+        "speed_variance": 0.47627811939245646,
+        "positioning": 0.26743444577012243,
+        "stamina": 0.3183006671738705
+      }
+    },
+    {
+      "minute": 80.36647586475614,
+      "momentum_level": "neutral",
+      "confidence": 0.7889313107535056,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.8784333677420527,
+        "speed_variance": 0.7238307627554094,
+        "positioning": 0.2815457951814033,
+        "stamina": 0.034791084723098775
+      }
+    },
+    {
+      "minute": 83.11664311923684,
+      "momentum_level": "positive",
+      "confidence": 0.6853363497559785,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.3823805238471434,
+        "speed_variance": 0.15143653067614926,
+        "positioning": 0.7778376625170832,
+        "stamina": 0.7428166236378189
+      }
+    },
+    {
+      "minute": 27.35483992332135,
+      "momentum_level": "neutral",
+      "confidence": 0.9478681935368469,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.7354160928272993,
+        "speed_variance": 0.3510556500555658,
+        "positioning": 0.2054918223765314,
+        "stamina": 0.4840570121449921
+      }
+    },
+    {
+      "minute": 72.55322952767844,
+      "momentum_level": "positive",
+      "confidence": 0.7106347015246763,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.18488679325870216,
+        "speed_variance": 0.7765985617687405,
+        "positioning": 0.10131565608349236,
+        "stamina": 0.7794149864457098
+      }
+    },
+    {
+      "minute": 20.92577065078725,
+      "momentum_level": "neutral",
+      "confidence": 0.7101206557223564,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.33113074666306497,
+        "speed_variance": 0.8558980685376216,
+        "positioning": 0.10974233655039434,
+        "stamina": 0.924816477279158
+      }
+    },
+    {
+      "minute": 63.390637729681096,
+      "momentum_level": "negative",
+      "confidence": 0.7788807427347009,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.9693438694366007,
+        "speed_variance": 0.07764404893836152,
+        "positioning": 0.03691760476052086,
+        "stamina": 0.1373317659568828
+      }
+    },
+    {
+      "minute": 37.80565073250085,
+      "momentum_level": "positive",
+      "confidence": 0.7518881024844754,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.10258224796967674,
+        "speed_variance": 0.507763619045199,
+        "positioning": 0.605537929480841,
+        "stamina": 0.4057260545274676
+      }
+    },
+    {
+      "minute": 8.049033520968864,
+      "momentum_level": "neutral",
+      "confidence": 0.6421945647160127,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.8597639267281576,
+        "speed_variance": 0.8524513966018289,
+        "positioning": 0.4820105340479558,
+        "stamina": 0.8080984090386621
+      }
+    },
+    {
+      "minute": 81.71684166381272,
+      "momentum_level": "neutral",
+      "confidence": 0.7661238868012574,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.6965548157432654,
+        "speed_variance": 0.41727867574463673,
+        "positioning": 0.48973116797630567,
+        "stamina": 0.32153779478512123
+      }
+    }
+  ]
+}

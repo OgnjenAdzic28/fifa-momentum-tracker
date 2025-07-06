@@ -1,0 +1,95 @@
+{
+  "match_id": "match_007_2238",
+  "timestamp": "2025-07-21T21:15:24.347357",
+  "opponent": "Bayern Munich",
+  "final_score": [
+    1,
+    2
+  ],
+  "momentum_events": [
+    {
+      "minute": 19.578107671273,
+      "momentum_level": "positive",
+      "confidence": 0.7569303158710066,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.5436265654009312,
+        "speed_variance": 0.9303610497365784,
+        "positioning": 0.8159514709910971,
+        "stamina": 0.6229339476895089
+      }
+    },
+    {
+      "minute": 5.1510125587336955,
+      "momentum_level": "negative",
+      "confidence": 0.6980618857150012,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.6931943705288064,
+        "speed_variance": 0.7475541221900052,
+        "positioning": 0.0752699687767443,
+        "stamina": 0.26963585307344706
+      }
+    },
+    {
+      "minute": 41.93457118470222,
+      "momentum_level": "neutral",
+      "confidence": 0.6850543717384022,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.21877014749505264,
+        "speed_variance": 0.7159566627217225,
+        "positioning": 0.01456486365241827,
+        "stamina": 0.893649481930473
+      }
+    },
+    {
+      "minute": 40.29015921677178,
+      "momentum_level": "neutral",
+      "confidence": 0.7339610964390741,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.2125647856256233,
+        "speed_variance": 0.7588517131525105,
+        "positioning": 0.8376198550613181,
+        "stamina": 0.2777324992227418
+      }
+    },
+    {
+      "minute": 21.293328649277807,
+      "momentum_level": "positive",
+      "confidence": 0.7756293798210111,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.5739744020675271,
+        "speed_variance": 0.3000023186364773,
+        "positioning": 0.8513221239115765,
+        "stamina": 0.493097761162681
+      }
+    },
+    {
+      "minute": 29.751044178466344,
+      "momentum_level": "negative",
+      "confidence": 0.6589898048546046,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.7437347918900777,
+        "speed_variance": 0.3360024843534414,
+        "positioning": 0.5441831301022958,
+        "stamina": 0.2489690698602699
+      }
+    },
+    {
+      "minute": 27.899274151934033,
+      "momentum_level": "positive",
+      "confidence": 0.8307273726028056,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.22150810070653637,
+        "speed_variance": 0.5198063235875353,
+        "positioning": 0.5168880703811599,
+        "stamina": 0.09580951169557372
+      }
+    }
+  ]
+}

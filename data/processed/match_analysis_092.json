@@ -1,0 +1,83 @@
+{
+  "match_id": "match_092_2786",
+  "timestamp": "2025-07-02T21:15:24.453453",
+  "opponent": "Real Madrid",
+  "final_score": [
+    0,
+    2
+  ],
+  "momentum_events": [
+    {
+      "minute": 19.193683799143365,
+      "momentum_level": "positive",
+      "confidence": 0.8329032646075654,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.44111397297910226,
+        "speed_variance": 0.021387393164989055,
+        "positioning": 0.4095965562222347,
+        "stamina": 0.2762334854574552
+      }
+    },
+    {
+      "minute": 24.904321377789113,
+      "momentum_level": "neutral",
+      "confidence": 0.9240602360299948,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.0917054033330802,
+        "speed_variance": 0.7447142048786123,
+        "positioning": 0.0014530235471931219,
+        "stamina": 0.5848527008844353
+      }
+    },
+    {
+      "minute": 46.46598027319749,
+      "momentum_level": "positive",
+      "confidence": 0.6095217139873591,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.7007936762435361,
+        "speed_variance": 0.8885919097528857,
+        "positioning": 0.5128212737797841,
+        "stamina": 0.5319653664128704
+      }
+    },
+    {
+      "minute": 81.16854660823282,
+      "momentum_level": "neutral",
+      "confidence": 0.6367442800246315,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.27536296532186,
+        "speed_variance": 0.9393630068296278,
+        "positioning": 0.371067756456541,
+        "stamina": 0.28082972341524837
+      }
+    },
+    {
+      "minute": 35.852240202548494,
+      "momentum_level": "neutral",
+      "confidence": 0.8635477425869151,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.8436459196317255,
+        "speed_variance": 0.621172358388738,
+        "positioning": 0.3466495985687337,
+        "stamina": 0.22874041805281953
+      }
+    },
+    {
+      "minute": 72.04833974504818,
+      "momentum_level": "neutral",
+      "confidence": 0.786342783978426,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.5206237821136191,
+        "speed_variance": 0.11286732165422575,
+        "positioning": 0.7146216861168017,
+        "stamina": 0.8482198957462688
+      }
+    }
+  ]
+}

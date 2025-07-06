@@ -1,0 +1,107 @@
+{
+  "match_id": "match_070_5777",
+  "timestamp": "2025-06-28T21:15:24.430396",
+  "opponent": "PSG",
+  "final_score": [
+    5,
+    2
+  ],
+  "momentum_events": [
+    {
+      "minute": 20.933786911441516,
+      "momentum_level": "positive",
+      "confidence": 0.8154085866928894,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.4001387572221604,
+        "speed_variance": 0.10181548701599152,
+        "positioning": 0.934361380751016,
+        "stamina": 0.5250550269369888
+      }
+    },
+    {
+      "minute": 48.087838568401736,
+      "momentum_level": "neutral",
+      "confidence": 0.8360267421211145,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.4155084258058185,
+        "speed_variance": 0.6819424223995362,
+        "positioning": 0.5402982841486837,
+        "stamina": 0.8234618644083385
+      }
+    },
+    {
+      "minute": 4.623319862861398,
+      "momentum_level": "negative",
+      "confidence": 0.6993979152323833,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.944822718194268,
+        "speed_variance": 0.034208333807561386,
+        "positioning": 0.3679573146186256,
+        "stamina": 0.16445824329855496
+      }
+    },
+    {
+      "minute": 13.405782138857509,
+      "momentum_level": "positive",
+      "confidence": 0.7211707805608281,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.40218219423806323,
+        "speed_variance": 0.4059650333275765,
+        "positioning": 0.2969123963264467,
+        "stamina": 0.4828569616877969
+      }
+    },
+    {
+      "minute": 24.32292669685022,
+      "momentum_level": "positive",
+      "confidence": 0.6353543458490214,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.3096583369279181,
+        "speed_variance": 0.9220814447870838,
+        "positioning": 0.9457455720915854,
+        "stamina": 0.2545011749065227
+      }
+    },
+    {
+      "minute": 14.942399599713346,
+      "momentum_level": "negative",
+      "confidence": 0.8524346595026158,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.7703828408715044,
+        "speed_variance": 0.03005446389810862,
+        "positioning": 0.21723319389343476,
+        "stamina": 0.9996932563731142
+      }
+    },
+    {
+      "minute": 12.326134115782025,
+      "momentum_level": "neutral",
+      "confidence": 0.6896755115093074,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.7762092476195672,
+        "speed_variance": 0.8214350797364568,
+        "positioning": 0.9672731074252512,
+        "stamina": 0.1291489198178596
+      }
+    },
+    {
+      "minute": 74.2191989413126,
+      "momentum_level": "negative",
+      "confidence": 0.8322161745292735,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.87414435733191,
+        "speed_variance": 0.7280806967534456,
+        "positioning": 0.9926448002458932,
+        "stamina": 0.14594476139676005
+      }
+    }
+  ]
+}

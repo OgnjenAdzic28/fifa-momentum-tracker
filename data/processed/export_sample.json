@@ -1,0 +1,17 @@
+{
+  "export_date": "2025-08-15T21:31:27.147068",
+  "export_type": "match_data",
+  "date_range": {
+    "start": "2025-07-16T21:31:27.147083",
+    "end": "2025-08-15T21:31:27.147093"
+  },
+  "summary": {
+    "total_matches": 127,
+    "wins": 81,
+    "draws": 12,
+    "losses": 34,
+    "win_rate": 0.638,
+    "avg_momentum_interventions": 2.3,
+    "intervention_success_rate": 0.742
+  }
+}

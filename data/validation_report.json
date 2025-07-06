@@ -1,0 +1,31 @@
+{
+  "validation_date": "2024-12-16T09:15:33.442Z",
+  "test_set_size": 571,
+  "detailed_metrics": {
+    "positive": {
+      "precision": 0.83,
+      "recall": 0.85,
+      "f1_score": 0.84,
+      "support": 184
+    },
+    "neutral": {
+      "precision": 0.81,
+      "recall": 0.79,
+      "f1_score": 0.8,
+      "support": 207
+    },
+    "negative": {
+      "precision": 0.89,
+      "recall": 0.91,
+      "f1_score": 0.9,
+      "support": 180
+    }
+  },
+  "real_world_testing": {
+    "matches_tested": 127,
+    "avg_detection_latency_ms": 847,
+    "false_positive_rate": 0.018,
+    "false_negative_rate": 0.023,
+    "user_satisfaction_rating": 4.2
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "match_id": "match_109_3721",
+  "timestamp": "2025-06-25T21:15:24.475682",
+  "opponent": "Man City",
+  "final_score": [
+    5,
+    1
+  ],
+  "momentum_events": [
+    {
+      "minute": 18.60773071159193,
+      "momentum_level": "negative",
+      "confidence": 0.8597981965220842,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.7124058383400846,
+        "speed_variance": 0.8872904580792782,
+        "positioning": 0.5990247463251285,
+        "stamina": 0.38985696888553334
+      }
+    },
+    {
+      "minute": 41.494652241184085,
+      "momentum_level": "negative",
+      "confidence": 0.7077010135922308,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.11623718240368752,
+        "speed_variance": 0.10029222000704696,
+        "positioning": 0.6647824726225987,
+        "stamina": 0.13603561496544536
+      }
+    },
+    {
+      "minute": 85.22973942359208,
+      "momentum_level": "negative",
+      "confidence": 0.7142808530856914,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.8356873687277047,
+        "speed_variance": 0.6164012953704985,
+        "positioning": 0.4871938696418615,
+        "stamina": 0.28803500519983893
+      }
+    },
+    {
+      "minute": 74.351973716675,
+      "momentum_level": "positive",
+      "confidence": 0.6017832482407844,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.2098415251228748,
+        "speed_variance": 0.1469287194956912,
+        "positioning": 0.9119791105893383,
+        "stamina": 0.3785454210266409
+      }
+    },
+    {
+      "minute": 10.379061687929443,
+      "momentum_level": "negative",
+      "confidence": 0.8244421830598359,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.5072032010560248,
+        "speed_variance": 0.3637360787191778,
+        "positioning": 0.13838643018204777,
+        "stamina": 0.25692362050429995
+      }
+    }
+  ]
+}

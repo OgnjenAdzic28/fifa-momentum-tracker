@@ -1,0 +1,83 @@
+{
+  "match_id": "match_069_1859",
+  "timestamp": "2025-07-17T21:15:24.429930",
+  "opponent": "PSG",
+  "final_score": [
+    1,
+    0
+  ],
+  "momentum_events": [
+    {
+      "minute": 44.092134085992065,
+      "momentum_level": "neutral",
+      "confidence": 0.6400394627017866,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.16355837136794882,
+        "speed_variance": 0.393740143310084,
+        "positioning": 0.3251387533806205,
+        "stamina": 0.9953667438805237
+      }
+    },
+    {
+      "minute": 67.90351056070175,
+      "momentum_level": "positive",
+      "confidence": 0.9427672382554131,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.810569988644516,
+        "speed_variance": 0.13324374265649153,
+        "positioning": 0.4593544753501887,
+        "stamina": 0.11319822502875854
+      }
+    },
+    {
+      "minute": 7.541234577897189,
+      "momentum_level": "neutral",
+      "confidence": 0.6398960786488503,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.12384967984210882,
+        "speed_variance": 0.38990185079286843,
+        "positioning": 0.35483706156260586,
+        "stamina": 0.48564418931196907
+      }
+    },
+    {
+      "minute": 84.53970477903032,
+      "momentum_level": "positive",
+      "confidence": 0.9365137589371584,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.481839121594151,
+        "speed_variance": 0.17946544755870686,
+        "positioning": 0.8212816952724331,
+        "stamina": 0.668607369601888
+      }
+    },
+    {
+      "minute": 25.21002863972451,
+      "momentum_level": "negative",
+      "confidence": 0.8144800672581102,
+      "intervention_triggered": false,
+      "features": {
+        "cpu_aggression": 0.36661270125419965,
+        "speed_variance": 0.9698737964525187,
+        "positioning": 0.38834022976678173,
+        "stamina": 0.5136908834389681
+      }
+    },
+    {
+      "minute": 78.55819880472681,
+      "momentum_level": "neutral",
+      "confidence": 0.7237307643891968,
+      "intervention_triggered": true,
+      "features": {
+        "cpu_aggression": 0.013128228298218247,
+        "speed_variance": 0.7951321940120694,
+        "positioning": 0.5687423793164094,
+        "stamina": 0.5194405125194803
+      }
+    }
+  ]
+}
